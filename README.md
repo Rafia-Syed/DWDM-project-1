@@ -1,0 +1,1 @@
+To simulate pushing data to a Data Warehouse, we used SQLite, a lightweight relational database. The cleaned laptop dataset was stored in a SQLite .db file using Python's pandas and sqlalchemy. This allowed us to simulate real-world DW operations like data storage and SQL querying without needing internet or cloud access.
